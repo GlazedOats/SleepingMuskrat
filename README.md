@@ -1,5 +1,3 @@
-(VERSION: 1.2 Chocolate Chip)
-
 
 This bot uses the selenium to track Elon Musk's Posts on Twitter or anyone you want to search in a (hopefully soon) 24hr radius. 
 
